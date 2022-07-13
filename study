@@ -1,9 +1,15 @@
 //사이트 참조
+https://www.inflearn.com/hello
+everything //파일탐색기
 https://text-to-speech.imtranslator.net/ //영어발음 사이트
 https://docs.emmet.io/cheat-sheet/  //emmet 단축키 모음
-
+table mdn //예제연습
+shift + 클릭 = 새창
 //수업필기
 ! ctrl+space  tab
+ctrl + / = 주석처리
+
+snippet ==매크로, 반복타이핑 회피
 
 table>tr*3>td*4 ctrl+space tab
 <table>
@@ -26,3 +32,8 @@ table>tr*3>td*4 ctrl+space tab
             <td></td>
         </tr>
     </table>
+
+header>h1{강성훈 홈페이지}
+<header>
+<h1>강성훈 홈페이지</h1>
+</header>
