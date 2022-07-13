@@ -1,0 +1,28 @@
+//사이트 참조
+https://text-to-speech.imtranslator.net/ //영어발음 사이트
+https://docs.emmet.io/cheat-sheet/  //emmet 단축키 모음
+
+//수업필기
+! ctrl+space  tab
+
+table>tr*3>td*4 ctrl+space tab
+<table>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
